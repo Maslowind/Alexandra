@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\bin\Debug\Bot_alex.exe.config
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\bin\Debug\Bot_alex.exe
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\bin\Debug\Bot_alex.pdb
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\bin\Debug\Telegram.Bot.dll
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\bin\Debug\Telegram.Bot.xml
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\obj\Debug\Bot_alex.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\obj\Debug\Bot_alex.Form1.resources
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\obj\Debug\Bot_alex.Properties.Resources.resources
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\obj\Debug\Bot_alex.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\obj\Debug\Bot_alex.exe
+C:\Users\user\Desktop\Учеба\ISD\Bot_alex\Bot_alex\obj\Debug\Bot_alex.pdb
